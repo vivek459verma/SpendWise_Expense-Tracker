@@ -7,13 +7,12 @@ Welcome to SpendWise – your go-to solution for managing your finances effectiv
 To make the most of SpendWise, you'll need to be familiar with:
 
 - Crafting sleek user interfaces with React.
-- Navigating smoothly through your app using React Router.
 - Keeping your app's state in check with Redux or similar tools.
 - Handling events seamlessly to ensure a smooth user experience.
 - Storing data efficiently with localStorage.
 - Organizing your code in a modular fashion.
 - Jazzing up your visuals with third-party libraries for some extra flair.
-- Collaborating effectively with your team using GitHub.
+- Collaborating effectively using GitHub.
 
 ## Features at a Glance
 
