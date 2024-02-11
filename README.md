@@ -42,6 +42,10 @@ Ready to dive into SpendWise? Here's how:
 3. Install dependencies by running `npm install`.
 4. Start the development server with `npm start`.
 
+## Deployment
+
+You can try out SpendWise by visiting the deployed version at [spendwise_expense-tracker.surge.sh](http://spendwise_expense-tracker.surge.sh/).
+
 ## Let's Build Together!
 
 We're always looking for collaborators to make SpendWise even better. Feel free to fork this repository, make your enhancements, and submit pull requests. Let's work together to help users manage their expenses like never before!
