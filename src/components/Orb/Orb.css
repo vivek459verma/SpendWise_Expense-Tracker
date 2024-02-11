@@ -1,0 +1,37 @@
+.orb-style {
+  width: 70vh;
+  height: 70vh;
+  position: absolute;
+  border-radius: 50%;
+  margin-left: -37vh;
+  margin-top: -37vh;
+  background: linear-gradient(180deg, #f56692 0%, #f2994a 100%);
+  filter: blur(350px);
+  animation: orb 20s alternate linear infinite;
+}
+
+@keyframes orb {
+  0% {
+    transform: translate(0, 0);
+  }
+  50% {
+    transform: translate(200vh, 60vh);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  @keyframes orb {
+    0% {
+      transform: translate(0, 0);
+    }
+    50% {
+      transform: translate(100vh, 60vh);
+    }
+    100% {
+      transform: translate(0, 0);
+    }
+  }
+}
